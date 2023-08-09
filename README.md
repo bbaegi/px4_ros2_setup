@@ -1,4 +1,4 @@
-# PX4-ROS2 Offboard Control (in ROS2)
+# PX4-ROS2 Setup
 
 This repository is guide for setup PX4 firmware & ROS2 system. 
 * reference : https://docs.px4.io/main/en/ros/ros2_comm.html
